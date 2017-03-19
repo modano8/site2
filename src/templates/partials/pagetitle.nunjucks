@@ -1,0 +1,11 @@
+<!--CS: You must keep DeltaPlaceHolderPageTitleInTitleArea and PlaceHolderPageTitleInTitleArea for a system master page, even if they are hidden http://blog.drisgill.com/2012/12/design-manager-bug-sharepoint-2013-rtm.html -->
+<!--SPM:<SharePoint:AjaxDelta id="DeltaPlaceHolderPageTitleInTitleArea" runat="server">-->
+<!--SPM:<asp:ContentPlaceHolder id="PlaceHolderPageTitleInTitleArea" runat="server">-->
+<!--SPM:<SharePoint:SPTitleBreadcrumb runat="server" RenderCurrentNodeAsLink="true" SiteMapProvider="SPContentMapProvider" CentralAdminSiteMapProvider="SPXmlAdminContentMapProvider">-->
+<!--PS: Start of READ-ONLY PREVIEW (do not modify)--><span id="ctl00_DeltaPlaceHolderPageTitleInTitleArea">Home</span><!--PE: End of READ-ONLY PREVIEW-->
+<!--SPM:<PATHSEPARATORTEMPLATE>-->
+<!--SPM:<SharePoint:ClusteredDirectionalSeparatorArrow runat="server"/>-->
+<!--SPM:</PATHSEPARATORTEMPLATE>-->
+<!--SPM:</SharePoint:SPTitleBreadcrumb>-->
+<!--SPM:</asp:ContentPlaceHolder>-->
+<!--SPM:</SharePoint:AjaxDelta>-->

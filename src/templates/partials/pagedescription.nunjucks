@@ -1,0 +1,9 @@
+<!--SPM:<SharePoint:AjaxDelta BlockElement="true" id="DeltaPlaceHolderPageDescription" CssClass="ms-displayInlineBlock ms-normalWrap" runat="server">-->
+<a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none"><span id="ms-pageDescriptionImage"></span></a>
+<span class="ms-accessible" id="ms-pageDescription">
+	<!--SPM:<asp:ContentPlaceHolder id="PlaceHolderPageDescription" runat="server"/>-->
+</span>
+<!--SPM:<SharePoint:ScriptBlock runat="server">-->
+<!--SPM:_spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");-->
+<!--SPM:</SharePoint:ScriptBlock>-->
+<!--SPM:</SharePoint:AjaxDelta>-->

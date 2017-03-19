@@ -1,0 +1,7 @@
+<!--SPM:<SharePoint:AjaxDelta id="DeltaBreadcrumbDropdown" runat="server">-->
+	<!--CS: Start Breadcrumb Snippet - decided to go with a more robust breadcrumb-->
+    <!--SPM:<%@Register Tagprefix="SharePointWebControls" Namespace="Microsoft.SharePoint.WebControls" Assembly="Microsoft.SharePoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"%>-->
+    <!--MS:<SharePointWebControls:ListSiteMapPath runat="server" SiteMapProviders="CurrentNavigation" RenderCurrentNodeAsLink="true" CssClass="s4-breadcrumb" NodeStyle-CssClass="s4-breadcrumbNode" CurrentNodeStyle-CssClass="s4-breadcrumbCurrentNode" RootNodeStyle-CssClass="s4-breadcrumbRootNode" HideInteriorRootNodes="true" SkipLinkText="" PathSeparator="">-->
+    <!--ME:</SharePointWebControls:ListSiteMapPath>-->
+    <!--CE: End Breadcrumb Snippet-->
+<!--SPM:</SharePoint:AjaxDelta>-->

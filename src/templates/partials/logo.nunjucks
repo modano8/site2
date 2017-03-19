@@ -1,0 +1,12 @@
+<!--logo-->
+<!--CS: Start Site Logo Snippet-->
+<!--SPM:<%@Register Tagprefix="SharePoint" Namespace="Microsoft.SharePoint.WebControls" Assembly="Microsoft.SharePoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"%>-->
+<!--MS:<SharePoint:AjaxDelta id="DeltaSiteLogo" BlockElement="true" runat="server" class="pull-left">-->
+    <!--MS:<SharePoint:SPLinkButton runat="server" CssClass="ms-siteicon-a" ID="x36d5bee949a7480783b3afc048c15598" NavigateUrl="~sitecollection/">-->
+        <!--MS:<SharePoint:SiteLogoImage name="onetidHeadbnnr0" runat="server" CssClass="ms-siteicon-img" ID="x74bbee6762f840edad4fe46f496d8c78" LogoImageUrl="/_layouts/15/images/siteIcon.png">-->
+            <!--PS: Start of READ-ONLY PREVIEW (do not modify)--><img id="ctl00_x74bbee6762f840edad4fe46f496d8c78" class="ms-siteicon-img" name="onetidHeadbnnr0" Src="/_layouts/15/images/siteIcon.png?rev=23" alt="Bootstrap3" /><!--PE: End of READ-ONLY PREVIEW-->
+        <!--ME:</SharePoint:SiteLogoImage>-->
+    <!--ME:</SharePoint:SPLinkButton>-->
+<!--ME:</SharePoint:AjaxDelta>-->
+<!--CE: End Site Logo Snippet-->
+<!--page title-->

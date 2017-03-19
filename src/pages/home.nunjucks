@@ -1,0 +1,5 @@
+{% extends "bootstrap3.html" %}
+
+{% block PlaceHolderMain %}
+    {% include 'placeholders/home/PlaceHolderMain.nunjucks' %}
+{% endblock %}
